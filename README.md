@@ -42,7 +42,7 @@ h1 {
 <div id="result"></div>
 
 <script>
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyXaDmOdRSdIbTueS6XZeZmYvaq2lTSA-GrSoCAHHzDTUprodwhjGS-YqwIu1YW05hxWQ/exec";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxsyQINALIabdlCcrxQBHxRQjckhKSXKYlI5cvnWb3VUrElDK6iMaRjYm1DpqDezXmuSQ/exec";
 
 function onScanSuccess(decodedText) {
 
